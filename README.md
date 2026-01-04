@@ -24,4 +24,11 @@ A Python-based smart traffic signal simulation system that dynamically allocates
 3. Run the program:
    ```bash
    python main.py
+## 📸 Screenshots
+
+### Terminal Output
+![Terminal Output](screenshots/output_terminal.png)
+
+### Traffic Density Graph
+![Traffic Graph](screenshots/traffic_graph.png)
 
