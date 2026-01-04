@@ -30,5 +30,5 @@ A Python-based smart traffic signal simulation system that dynamically allocates
 ![Terminal Output](screenshots/output_terminal.png)
 
 ### Traffic Density Graph
-![Traffic Graph](screenshots/traffic_graph.png)
+![Traffic Graph]("C:\Users\anchi\OneDrive\Pictures\traffic_graph.png")
 
